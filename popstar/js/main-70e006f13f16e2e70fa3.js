@@ -3582,7 +3582,7 @@ eval("module.exports = function (module) {\n  if (!module.webpackPolyfill) {\n  
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/blue@2x-f5664.png\";\n\n//# sourceURL=webpack:///./src/images/blue@2x.png?");
+eval("module.exports = \"./images/blue@2x-f5664.png\";\n\n//# sourceURL=webpack:///./src/images/blue@2x.png?");
 
 /***/ }),
 
@@ -3604,7 +3604,7 @@ eval("module.exports = \"./images/cover-8b66b.jpg\";\n\n//# sourceURL=webpack://
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/green@2x-14ac9.png\";\n\n//# sourceURL=webpack:///./src/images/green@2x.png?");
+eval("module.exports = \"./images/green@2x-14ac9.png\";\n\n//# sourceURL=webpack:///./src/images/green@2x.png?");
 
 /***/ }),
 
@@ -3615,7 +3615,7 @@ eval("module.exports = \"../images/green@2x-14ac9.png\";\n\n//# sourceURL=webpac
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/pause@2x-fef54.png\";\n\n//# sourceURL=webpack:///./src/images/pause@2x.png?");
+eval("module.exports = \"./images/pause@2x-fef54.png\";\n\n//# sourceURL=webpack:///./src/images/pause@2x.png?");
 
 /***/ }),
 
@@ -3626,7 +3626,7 @@ eval("module.exports = \"../images/pause@2x-fef54.png\";\n\n//# sourceURL=webpac
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/play@2x-982c2.png\";\n\n//# sourceURL=webpack:///./src/images/play@2x.png?");
+eval("module.exports = \"./images/play@2x-982c2.png\";\n\n//# sourceURL=webpack:///./src/images/play@2x.png?");
 
 /***/ }),
 
@@ -3659,7 +3659,7 @@ eval("module.exports = \"./images/red@2x-4e08c.png\";\n\n//# sourceURL=webpack:/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/star_blue@2x-81ee2.png\";\n\n//# sourceURL=webpack:///./src/images/star_blue@2x.png?");
+eval("module.exports = \"./images/star_blue@2x-81ee2.png\";\n\n//# sourceURL=webpack:///./src/images/star_blue@2x.png?");
 
 /***/ }),
 
@@ -3681,7 +3681,7 @@ eval("module.exports = \"../images/star_green@2x-d0ad5.png\";\n\n//# sourceURL=w
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/star_purple@2x-f39ff.png\";\n\n//# sourceURL=webpack:///./src/images/star_purple@2x.png?");
+eval("module.exports = \"./images/star_purple@2x-f39ff.png\";\n\n//# sourceURL=webpack:///./src/images/star_purple@2x.png?");
 
 /***/ }),
 
@@ -3703,7 +3703,7 @@ eval("module.exports = \"../images/star_red@2x-c28bf.png\";\n\n//# sourceURL=web
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/star_yellow@2x-3860e.png\";\n\n//# sourceURL=webpack:///./src/images/star_yellow@2x.png?");
+eval("module.exports = \"./images/star_yellow@2x-3860e.png\";\n\n//# sourceURL=webpack:///./src/images/star_yellow@2x.png?");
 
 /***/ }),
 
@@ -3714,7 +3714,7 @@ eval("module.exports = \"../images/star_yellow@2x-3860e.png\";\n\n//# sourceURL=
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../images/yellow@2x-6f5d1.png\";\n\n//# sourceURL=webpack:///./src/images/yellow@2x.png?");
+eval("module.exports = \"./images/yellow@2x-6f5d1.png\";\n\n//# sourceURL=webpack:///./src/images/yellow@2x.png?");
 
 /***/ }),
 
