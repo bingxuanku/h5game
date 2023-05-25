@@ -25,8 +25,8 @@ body {
 .wrapper {
   position: relative;
 
-  width: 800px;
-  height: 660px;
+  width: 100vw;
+  height: 100vh;
   /*border: 1px solid #ccc;*/
   margin: 0 auto;
 
@@ -41,17 +41,17 @@ body {
   height: 100%;
 
   background: url('images/start-cover.png') center no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .wrapper .init-box .start-btn {
   position: absolute;
   right: 0;
-  bottom: 30px;
+  bottom: 60px;
   left: 0;
 
   width: 149px;
-  height: 208px;
+  height: 508px;
   margin: 0 auto;
 
   cursor: pointer;
@@ -59,7 +59,7 @@ body {
 
 .wrapper .game-box {
   position: relative; 
-
+  overflow: hidden;
   width: 100%;
 }
 

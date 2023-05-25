@@ -598,10 +598,10 @@ $(function () {
     $('.init-box').addClass('hidden');
     $('.game-box').removeClass('hidden');
     var gameConfig = {
-      cellWidth: 42,
-      cellHeight: 42,
-      rows: 7,
-      cols: 10,
+      cellWidth: 36,
+      cellHeight: 36,
+      rows: 9,
+      cols: 6,
       level: 0,
     }
     new LinkGame(gameConfig).init();
