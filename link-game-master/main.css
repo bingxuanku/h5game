@@ -6,9 +6,7 @@
 }
 
 body {
-  padding-top: 100px;
   /*火狐*/
-
   -webkit-user-select: none;
      -moz-user-select: none;
   /*webkit浏览器*/
@@ -81,15 +79,15 @@ body {
 
   position: absolute;
   top: 15px;
-  left: 110px;
+  left: 82px;
 }
 
 .wrapper .game-box .toolbar .level {
   line-height: 34px; 
 
   position: absolute;
-  top: 12px;
-  left: 294px;
+  top: 16px;
+  left: 334px;
 
   height: 34px;
 }
@@ -167,12 +165,12 @@ body {
 }
 
 .wrapper .game-box .game-area table#game .game-row td .pic-box.active {
-  width: 80px;
-  height: 80px;
+  /* width: 80px; */
+  /* height: 80px; */
 
   border-radius: 16px; 
   background: url(images/active.png) center no-repeat;
-  background-size: 124%;
+  /* background-size: 124%; */
 }
 
 .wrapper .game-box .game-area table#game .game-row td .pic-box img {
